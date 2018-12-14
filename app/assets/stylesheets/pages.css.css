@@ -1,0 +1,16 @@
+header {
+  background-image: url("https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/29541295_3672349004761_3346450713148957668_n.jpg?_nc_cat=101&_nc_ht=scontent-lga3-1.xx&oh=4da37e835164724e30ffce3fc4d7987c&oe=5CA6D0BA");
+  padding: 200px;
+  color: White;
+}
+
+div.btn {
+  margin: .1px;
+  border: .02px;
+  color: Blue;
+}
+
+main {
+  font-family: Roboto;
+  font-weight: Medium;
+}
